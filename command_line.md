@@ -17,13 +17,19 @@ $ ssh XXX@XXXX.XXX.XX
 
 ### check packages in conda and pip
 conda list
+
 conda install package_name
+
 conda remove package_name
+
 conda update package_name
 
 pip list
+
 pip install package_name
+
 pip install --version package_name
+
 pip uninstall --version package_name
 
 
