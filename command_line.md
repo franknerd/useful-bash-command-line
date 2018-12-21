@@ -19,6 +19,8 @@ $ ssh XXX@XXXX.XXX.XX
 $ conda list
 $ conda install package_name
 $ conda remove package_name
+$ conda update package_name
+
 
 $ pip list
 & pip install package_name
