@@ -33,5 +33,7 @@ pip install --version package_name
 pip uninstall --version package_name
 
 
+### check GPU
+watch -d -n 2 nvidia-smi (2s each time)
 
 
